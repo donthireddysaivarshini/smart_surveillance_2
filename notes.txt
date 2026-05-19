@@ -1,0 +1,4 @@
+pip install tensorflow opencv-python numpy
+pip install scipy
+python train_activity_models.py
+python run_laptop_surveillance.pypython run
